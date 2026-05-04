@@ -1,0 +1,22 @@
+{
+  "repoId": "eedfe0ae-5073-47fc-8c4f-7eea993259bb",
+  "repoName": "BaseCore",
+  "server": "https://api.grapuco.com",
+  "language": "csharp",
+  "features": {
+    "embeddings": true,
+    "dataFlowAnalysis": true
+  },
+  "ignore": [
+    "node_modules",
+    "dist",
+    ".next",
+    ".git",
+    ".grapuco",
+    "__pycache__",
+    "vendor",
+    "target",
+    "build"
+  ],
+  "lastPush": "2026-05-04T03:38:23.083Z"
+}
